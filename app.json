@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "react-native-sample-app",
-    "slug": "react-native-sample-app",
+    "slug": "react-native-for-youtube",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "3d46a8e7-c73e-4360-ac8c-516eb2c38ef1"
+      }
+    },
+    "owner": "shincode"
   }
 }
